@@ -1,0 +1,31 @@
+[
+  { "id": "86818b3f-3188-456b-86eb-eccb589ec8fc", "name": "Laptops" },
+  { "id": "ec5bba0e-f7ea-4498-b614-69762a3e5da2", "name": "Smartphones" },
+  { "id": "11d30ad8-dae6-4707-93e3-4839f068ff2f", "name": "Tablets" },
+  { "id": "68a0e34b-b159-4d72-8260-e0d0a01c338c", "name": "Smartwatches" },
+  { "id": "adc039b3-c67e-431e-8f1e-99737f097c62", "name": "Gaming Consoles" },
+  { "id": "4d400536-56ac-4580-b11d-9c6ae98b0c60", "name": "VR Headsets" },
+  { "id": "d015cdba-7a0a-4019-bb5e-d1fbb0f16fa8", "name": "Wireless Earbuds" },
+  { "id": "48637963-131a-4df4-a860-923c43c3af44", "name": "Drones" },
+  { "id": "73206134-1c64-4c4b-8719-4c9354e0f17d", "name": "3D Printers" },
+  { "id": "062b4d9c-2689-4352-ba42-d786c1ebe27c", "name": "Monitors" },
+  { "id": "65fed3c9-f4b6-41e5-9e28-b7aab79c0ac3", "name": "Keyboards" },
+  { "id": "be117237-564a-443d-b3fa-c862e8970e64", "name": "Gaming Mice" },
+  {
+    "id": "e28f3842-78b4-4d8a-aef3-bf309f7d90b1",
+    "name": "External Hard Drives"
+  },
+  {
+    "id": "13c120f5-1376-45e2-89c7-f81865a66595",
+    "name": "Smart Home Devices"
+  },
+  {
+    "id": "705c3d95-542c-41bd-b552-994a4cccb5dc",
+    "name": "Wearable Fitness Trackers"
+  },
+  { "id": "31fe9fa4-b88f-406d-b43f-21f0f9231cc3", "name": "E-Readers" },
+  { "id": "d008aed6-3989-4678-9afa-5b3d472ae326", "name": "Portable Speakers" },
+  { "id": "cdb6f94a-faae-4cbb-9a2e-973dba80bdbd", "name": "Graphic Tablets" },
+  { "id": "08123bb5-4773-43b4-ba33-8e4626830f1e", "name": "Routers" },
+  { "id": "647da469-1455-433b-a683-e00b6f47b100", "name": "Webcams" }
+]

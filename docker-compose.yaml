@@ -1,0 +1,24 @@
+services:
+  gadget-db:
+    container_name: gadget-db
+    image: postgres:alpine
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_USER=deathstar
+      - POSTGRES_PASSWORD=23092004
+      - POSTGRES_DB=gadget_db
+    volumes:
+      - gadget_data:/var/lib/postgresql/data
+  gadget-adminer:
+    container_name: gadget-adminer
+    image: adminer
+    restart: always
+    ports:
+      - "8080:8080"
+    depends_on:
+      - gadget-db
+
+volumes:
+  gadget_data:

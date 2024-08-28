@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Ultra HD 4K Monitor",
+    "description": "Experience stunning visuals with this 32-inch Ultra HD 4K monitor. Perfect for gamers, designers, and professionals who need high-resolution clarity. It features a sleek design, vibrant colors, and exceptional detail. With multiple connectivity options, including HDMI and DisplayPort, it's compatible with a variety of devices. The adjustable stand ensures ergonomic comfort during long hours of use. Whether for work or play, this monitor delivers an immersive viewing experience like no other.",
+    "quantity": 120,
+    "price": 499.99,
+    "categoryID": "86818b3f-3188-456b-86eb-eccb589ec8fc"
+  },
+  {
+    "name": "Bluetooth Noise-Cancelling Headphones",
+    "description": "Immerse yourself in music with these premium Bluetooth noise-cancelling headphones. Designed to block out ambient noise, they provide clear and crisp sound for an unparalleled listening experience. With a comfortable over-ear design, long battery life, and fast charging capabilities, these headphones are perfect for travel, work, or relaxation. The built-in microphone allows for hands-free calls, and the touch controls make it easy to adjust volume and playback.",
+    "quantity": 200,
+    "price": 199.99,
+    "categoryID": "ec5bba0e-f7ea-4498-b614-69762a3e5da2"
+  },
+  {
+    "name": "Wireless Mechanical Keyboard",
+    "description": "Elevate your typing experience with this wireless mechanical keyboard. Featuring tactile feedback and customizable RGB lighting, it's perfect for gamers and professionals alike. The compact design saves desk space, while the wireless connection ensures a clutter-free workspace. The durable key switches are designed to last millions of keystrokes, providing a satisfying typing experience. Compatible with both Windows and macOS, this keyboard is the ideal choice for any setup.",
+    "quantity": 75,
+    "price": 129.99,
+    "categoryID": "11d30ad8-dae6-4707-93e3-4839f068ff2f"
+  },
+  {
+    "name": "Smart Home Security Camera",
+    "description": "Keep your home safe with this smart security camera. It features 1080p HD video, night vision, and motion detection, allowing you to monitor your property from anywhere via the companion app. The two-way audio lets you communicate with visitors or deter intruders, while the easy installation process makes it accessible for anyone. With cloud storage options and real-time alerts, you'll always be in the know about what's happening around your home.",
+    "quantity": 150,
+    "price": 89.99,
+    "categoryID": "68a0e34b-b159-4d72-8260-e0d0a01c338c"
+  },
+  {
+    "name": "Portable SSD Drive 1TB",
+    "description": "Transfer and store files with lightning speed using this 1TB portable SSD drive. It's designed for durability and portability, making it perfect for professionals on the go. With USB-C connectivity, it's compatible with a wide range of devices, including laptops, desktops, and smartphones. The high-speed data transfer ensures quick backups and file access, while the compact design fits easily in your pocket or bag.",
+    "quantity": 300,
+    "price": 149.99,
+    "categoryID": "adc039b3-c67e-431e-8f1e-99737f097c62"
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "description": "Say goodbye to cables with this sleek wireless charging pad. Compatible with all Qi-enabled devices, it provides fast and efficient charging for your smartphone or other gadgets. The slim design fits perfectly on your desk or nightstand, while the non-slip surface ensures your device stays in place. With built-in overcharge protection, you can charge your devices safely and securely. Ideal for both home and office use.",
+    "quantity": 250,
+    "price": 39.99,
+    "categoryID": "4d400536-56ac-4580-b11d-9c6ae98b0c60"
+  },
+  {
+    "name": "Smartwatch with Heart Rate Monitor",
+    "description": "Stay connected and healthy with this feature-packed smartwatch. It tracks your heart rate, steps, and sleep patterns, helping you maintain a balanced lifestyle. With notifications for calls, texts, and apps, you'll never miss an important update. The customizable watch faces and interchangeable bands allow you to match your style, while the waterproof design ensures it can handle any activity. Compatible with both Android and iOS devices.",
+    "quantity": 180,
+    "price": 249.99,
+    "categoryID": "d015cdba-7a0a-4019-bb5e-d1fbb0f16fa8"
+  },
+  {
+    "name": "4K Action Camera",
+    "description": "Capture every adventure in stunning detail with this 4K action camera. Designed for extreme conditions, it's waterproof, shockproof, and dustproof. With multiple shooting modes, including time-lapse and slow motion, you can create professional-quality videos and photos. The built-in Wi-Fi allows for easy sharing and remote control via your smartphone. Whether you're surfing, skiing, or hiking, this camera is your ultimate companion.",
+    "quantity": 90,
+    "price": 199.99,
+    "categoryID": "48637963-131a-4df4-a860-923c43c3af44"
+  },
+  {
+    "name": "Smart LED Light Bulb",
+    "description": "Transform your home lighting with this smart LED light bulb. Control the brightness and color from your smartphone or voice assistant, creating the perfect ambiance for any occasion. With energy-efficient LED technology, you'll save on electricity bills while enjoying a longer lifespan. The easy installation process means you can upgrade your lighting in minutes. Ideal for living rooms, bedrooms, and offices.",
+    "quantity": 500,
+    "price": 29.99,
+    "categoryID": "73206134-1c64-4c4b-8719-4c9354e0f17d"
+  },
+  {
+    "name": "High-Speed Wi-Fi Router",
+    "description": "Upgrade your home network with this high-speed Wi-Fi router. It offers blazing-fast internet speeds, ideal for streaming, gaming, and working from home. The advanced security features protect your devices from online threats, while the easy setup process ensures you can get online quickly. With multiple antennas and beamforming technology, you'll enjoy strong and stable connections throughout your home.",
+    "quantity": 130,
+    "price": 129.99,
+    "categoryID": "062b4d9c-2689-4352-ba42-d786c1ebe27c"
+  },
+  {
+    "name": "USB-C Hub with Multiple Ports",
+    "description": "Expand your connectivity with this versatile USB-C hub. It features multiple ports, including HDMI, USB-A, SD card reader, and Ethernet, allowing you to connect all your peripherals to your laptop or tablet. The compact design makes it easy to carry, and the plug-and-play functionality ensures a hassle-free experience. Ideal for professionals who need to connect multiple devices on the go.",
+    "quantity": 200,
+    "price": 49.99,
+    "categoryID": "65fed3c9-f4b6-41e5-9e28-b7aab79c0ac3"
+  },
+  {
+    "name": "Gaming Mouse with RGB Lighting",
+    "description": "Enhance your gaming experience with this precision gaming mouse. It features customizable RGB lighting, programmable buttons, and adjustable DPI settings, allowing you to tailor it to your gaming style. The ergonomic design ensures comfort during long gaming sessions, while the high-precision sensor delivers accurate and responsive control. Compatible with Windows and macOS, this mouse is a must-have for any gamer.",
+    "quantity": 250,
+    "price": 69.99,
+    "categoryID": "be117237-564a-443d-b3fa-c862e8970e64"
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "description": "Work in comfort with this ergonomic office chair. Designed with adjustable lumbar support, headrest, and armrests, it provides customized comfort for long hours at your desk. The breathable mesh back promotes airflow, while the cushioned seat ensures you stay comfortable throughout the day. The smooth-rolling casters and 360-degree swivel make it easy to move around your workspace. Perfect for home or office use.",
+    "quantity": 60,
+    "price": 299.99,
+    "categoryID": "e28f3842-78b4-4d8a-aef3-bf309f7d90b1"
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "description": "Take your music anywhere with this portable Bluetooth speaker. It delivers powerful sound with deep bass and clear highs, making it perfect for parties, picnics, or relaxing at home. The compact design and long battery life mean you can enjoy your music on the go, while the water-resistant build ensures it can handle outdoor adventures. With easy Bluetooth pairing and a built-in microphone, it's ideal for hands-free calls and voice commands.",
+    "quantity": 300,
+    "price": 59.99,
+    "categoryID": "13c120f5-1376-45e2-89c7-f81865a66595"
+  },
+  {
+    "name": "Smart Thermostat",
+    "description": "Control your home's temperature with this smart thermostat. It learns your schedule and preferences, adjusting the temperature automatically to save energy and keep you comfortable. The easy-to-use interface and smartphone app make it simple to control from anywhere. With compatibility with most HVAC systems, it's a great upgrade for any home. The modern design looks great in any room, and the energy savings will pay for itself over time.",
+    "quantity": 80,
+    "price": 179.99,
+    "categoryID": "705c3d95-542c-41bd-b552-994a4cccb5dc"
+  },
+  {
+    "name": "Wireless Earbuds with Charging Case",
+    "description": "Enjoy your music on the go with these wireless earbuds. They offer high-quality sound, comfortable fit, and long battery life. The compact charging case provides multiple recharges, ensuring your earbuds are always ready to use. With touch controls, you can easily manage your music and calls without reaching for your phone. The noise-isolating design blocks out ambient noise, making them perfect for commuting, working out, or relaxing at home.",
+    "quantity": 500,
+    "price": 99.99,
+    "categoryID": "31fe9fa4-b88f-406d-b43f-21f0f9231cc3"
+  },
+  {
+    "name": "Smart Light Strip",
+    "description": "Add ambiance to any room with this smart light strip. It offers millions of colors and adjustable brightness, allowing you to create the perfect mood for any occasion. Control it from your smartphone or voice assistant, and easily set schedules or sync it with your music. The flexible design allows you to place it anywhere, whether under cabinets, behind your TV, or around your bed. Energy-efficient LEDs ensure long-lasting use.",
+    "quantity": 250,
+    "price": 39.99,
+    "categoryID": "d008aed6-3989-4678-9afa-5b3d472ae326"
+  },
+  {
+    "name": "1080p Web Camera",
+    "description": "Upgrade your video calls with this 1080p web camera. It offers crystal-clear video quality, ensuring you look your best in every meeting. The built-in microphone captures clear audio, while the wide-angle lens ensures everyone is in the frame. The easy plug-and-play setup means you can start using it right away, and the adjustable clip makes it compatible with laptops, monitors, and tripods. Ideal for remote work, online classes, and streaming.",
+    "quantity": 180,
+    "price": 79.99,
+    "categoryID": "cdb6f94a-faae-4cbb-9a2e-973dba80bdbd"
+  },
+  {
+    "name": "Portable Power Bank 20000mAh",
+    "description": "Keep your devices charged on the go with this 20000mAh portable power bank. It offers fast charging for smartphones, tablets, and other gadgets, ensuring you stay connected wherever you are. The slim and lightweight design makes it easy to carry in your bag or pocket, while the multiple output ports allow you to charge multiple devices at once. With built-in safety features, you can charge your devices safely and efficiently.",
+    "quantity": 300,
+    "price": 49.99,
+    "categoryID": "08123bb5-4773-43b4-ba33-8e4626830f1e"
+  },
+  {
+    "name": "HDMI to USB-C Adapter",
+    "description": "Connect your devices with this HDMI to USB-C adapter. It allows you to connect your laptop, tablet, or smartphone to an external display or projector, making it perfect for presentations, movies, and gaming. The compact and durable design ensures it can handle the demands of daily use, while the plug-and-play functionality makes it easy to set up. Compatible with a wide range of devices, this adapter is a must-have for anyone on the go.",
+    "quantity": 250,
+    "price": 29.99,
+    "categoryID": "647da469-1455-433b-a683-e00b6f47b100"
+  },
+  {
+    "name": "Electric Standing Desk",
+    "description": "Work comfortably with this electric standing desk. It features adjustable height settings, allowing you to switch between sitting and standing throughout the day. The spacious work surface provides plenty of room for your computer, monitor, and accessories, while the sturdy frame ensures stability. With easy-to-use controls, you can adjust the height with the touch of a button. Perfect for creating a healthier and more productive workspace.",
+    "quantity": 40,
+    "price": 499.99,
+    "categoryID": "86818b3f-3188-456b-86eb-eccb589ec8fc"
+  },
+  {
+    "name": "USB-C External Hard Drive 2TB",
+    "description": "Store and back up your files with this 2TB USB-C external hard drive. It offers fast data transfer speeds, making it perfect for storing large files, such as videos, photos, and documents. The compact design makes it easy to carry with you, while the durable build ensures it can handle the demands of daily use. With plug-and-play functionality, you can start using it right out of the box, and it's compatible with both Windows and macOS.",
+    "quantity": 150,
+    "price": 99.99,
+    "categoryID": "ec5bba0e-f7ea-4498-b614-69762a3e5da2"
+  },
+  {
+    "name": "Smart Doorbell Camera",
+    "description": "Enhance your home security with this smart doorbell camera. It offers 1080p HD video, two-way audio, and motion detection, allowing you to see and communicate with visitors from anywhere. The easy installation process means you can set it up in minutes, and the weather-resistant design ensures it can handle the elements. With cloud storage options and real-time alerts, you'll always know who's at your door, whether you're home or away.",
+    "quantity": 100,
+    "price": 149.99,
+    "categoryID": "11d30ad8-dae6-4707-93e3-4839f068ff2f"
+  },
+  {
+    "name": "Smart Plug with Energy Monitoring",
+    "description": "Control your devices remotely with this smart plug. It allows you to turn appliances on and off from your smartphone, set schedules, and monitor energy usage. The compact design ensures it won't block other outlets, and the easy setup process makes it accessible for anyone. Compatible with voice assistants, you can control it with simple voice commands. Ideal for automating your home and reducing energy consumption.",
+    "quantity": 400,
+    "price": 19.99,
+    "categoryID": "68a0e34b-b159-4d72-8260-e0d0a01c338c"
+  },
+  {
+    "name": "Gaming Headset with Surround Sound",
+    "description": "Immerse yourself in your games with this gaming headset. It features surround sound, noise-cancelling microphone, and comfortable ear cushions, ensuring you stay focused on the game. The adjustable headband provides a perfect fit, while the inline controls allow you to adjust volume and mute the microphone with ease. Compatible with multiple platforms, including PC, Xbox, and PlayStation, this headset is a must-have for any serious gamer.",
+    "quantity": 200,
+    "price": 89.99,
+    "categoryID": "adc039b3-c67e-431e-8f1e-99737f097c62"
+  },
+  {
+    "name": "Smart Smoke Detector",
+    "description": "Protect your home with this smart smoke detector. It offers real-time alerts to your smartphone, ensuring you know immediately if there's a problem. The advanced sensors detect both smoke and carbon monoxide, providing comprehensive protection for your home. The easy installation process and long battery life make it a hassle-free addition to your home security system. Ideal for ensuring the safety of your family and property.",
+    "quantity": 120,
+    "price": 69.99,
+    "categoryID": "4d400536-56ac-4580-b11d-9c6ae98b0c60"
+  },
+  {
+    "name": "Bluetooth Tracking Device",
+    "description": "Keep track of your belongings with this Bluetooth tracking device. Attach it to your keys, wallet, or bag, and use the companion app to find them quickly if they go missing. The compact design ensures it won't get in the way, while the replaceable battery provides long-lasting use. With a loud alarm and location tracking, you'll never lose your valuables again. Perfect for busy individuals who want to keep their essentials safe.",
+    "quantity": 350,
+    "price": 29.99,
+    "categoryID": "d015cdba-7a0a-4019-bb5e-d1fbb0f16fa8"
+  },
+  {
+    "name": "Smart Water Bottle with Hydration Tracking",
+    "description": "Stay hydrated with this smart water bottle. It tracks your water intake and reminds you to drink throughout the day, helping you maintain a healthy lifestyle. The durable design is perfect for both indoor and outdoor use, while the leak-proof lid ensures you can take it anywhere without worry. The easy-to-read display shows your progress, and the companion app provides personalized hydration goals. Ideal for anyone looking to improve their health.",
+    "quantity": 220,
+    "price": 49.99,
+    "categoryID": "48637963-131a-4df4-a860-923c43c3af44"
+  },
+  {
+    "name": "USB-C Hub with Multiple Ports",
+    "description": "Expand your connectivity options with this USB-C hub. It offers multiple ports, including USB, HDMI, and Ethernet, allowing you to connect a wide range of devices to your laptop or tablet. The compact design makes it easy to carry with you, while the durable build ensures it can handle daily use. With plug-and-play functionality, you can start using it right out of the box, making it a versatile addition to your tech setup.",
+    "quantity": 270,
+    "price": 59.99,
+    "categoryID": "73206134-1c64-4c4b-8719-4c9354e0f17d"
+  }
+]
